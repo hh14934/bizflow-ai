@@ -1,0 +1,3 @@
+{"question": "业务助理 Agent 适合做什么？", "answer": "适合做跨系统查询、订单草稿、库存检查、审批状态跟踪和回款风险提示。", "keywords": ["业务助理", "CRM", "ERP", "库存查询", "订单草稿"], "source_keys": ["sales-sop"], "confidence": 0.86}
+{"question": "业务操作为什么要默认草稿模式？", "answer": "CRM/ERP 写操作会影响真实业务数据，Agent 应先生成草稿并留痕，关键动作经人工审批。", "keywords": ["业务助理", "CRM", "ERP", "库存查询", "订单草稿"], "source_keys": ["sales-sop"], "confidence": 0.86}
+{"question": "BizFlow 的 知识源价值是什么？", "answer": "把业务 SOP、价格规则、库存策略和审批案例沉淀为可引用业务知识。", "keywords": ["业务助理", "CRM", "ERP", "库存查询", "订单草稿"], "source_keys": ["sales-sop"], "confidence": 0.86}

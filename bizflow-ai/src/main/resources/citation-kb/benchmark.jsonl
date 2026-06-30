@@ -1,0 +1,5 @@
+{"capability": "支持 CRM/ERP/库存工具调用", "metric": "supported", "value": "yes", "evidence_source_keys": ["sales-sop"]}
+{"capability": "支持订单草稿安全模式", "metric": "supported", "value": "yes", "evidence_source_keys": ["sales-sop"]}
+{"capability": "支持业务规则引用", "metric": "supported", "value": "yes", "evidence_source_keys": ["sales-sop"]}
+{"capability": "支持回款风险提示", "metric": "supported", "value": "yes", "evidence_source_keys": ["sales-sop"]}
+{"capability": "企业版支持审批和审计", "metric": "supported", "value": "yes", "evidence_source_keys": ["sales-sop"]}

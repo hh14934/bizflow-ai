@@ -1,0 +1,3 @@
+{"subject": "Customer", "predicate": "places", "object": "Order", "source_keys": ["sales-sop"], "confidence": 0.82}
+{"subject": "Order", "predicate": "contains", "object": "Product", "source_keys": ["sales-sop"], "confidence": 0.82}
+{"subject": "Inventory", "predicate": "blocks_or_allows", "object": "OrderDraft", "source_keys": ["sales-sop"], "confidence": 0.82}
